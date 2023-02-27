@@ -14,3 +14,8 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+# Deploy
+npm run deploy
+
+## Test product
+https://golive3js.vercel.app/
